@@ -1,0 +1,5 @@
+C:\Users\hophamthi\Downloads\PageObjectFramework\ProjectName.Test.UI\obj\Debug\net6.0\ProjectName.Test.UI.csproj.AssemblyReference.cache
+C:\Users\hophamthi\Downloads\PageObjectFramework\ProjectName.Test.UI\obj\Debug\net6.0\ProjectName.Test.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hophamthi\Downloads\PageObjectFramework\ProjectName.Test.UI\obj\Debug\net6.0\ProjectName.Test.UI.AssemblyInfoInputs.cache
+C:\Users\hophamthi\Downloads\PageObjectFramework\ProjectName.Test.UI\obj\Debug\net6.0\ProjectName.Test.UI.AssemblyInfo.cs
+C:\Users\hophamthi\Downloads\PageObjectFramework\ProjectName.Test.UI\obj\Debug\net6.0\ProjectName.Test.UI.csproj.CoreCompileInputs.cache
