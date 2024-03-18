@@ -8,5 +8,7 @@ namespace ProjectName.Test.UI.Tests
 {
     internal class Warehouse
     {
+        //test
+        //test2
     }
 }
