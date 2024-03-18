@@ -280,32 +280,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/phamthihop/.nuget/packages/": {}
+    "C:\\Users\\hophamthi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj",
+      "projectUniqueName": "C:\\Users\\hophamthi\\Documents\\UITesting\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj",
       "projectName": "ProjectName.Test.UI",
-      "projectPath": "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj",
-      "packagesPath": "/Users/phamthihop/.nuget/packages/",
-      "outputPath": "/Users/phamthihop/UITesting/ProjectName.Test.UI/obj/",
+      "projectPath": "C:\\Users\\hophamthi\\Documents\\UITesting\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj",
+      "packagesPath": "C:\\Users\\hophamthi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hophamthi\\Documents\\UITesting\\ProjectName.Test.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/phamthihop/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hophamthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj": {
-              "projectPath": "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj"
+            "C:\\Users\\hophamthi\\Documents\\UITesting\\PageObjectFramework\\Framework.Test.UI.csproj": {
+              "projectPath": "C:\\Users\\hophamthi\\Documents\\UITesting\\PageObjectFramework\\Framework.Test.UI.csproj"
             }
           }
         }
@@ -361,7 +363,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

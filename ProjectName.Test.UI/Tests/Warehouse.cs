@@ -1,14 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using NUnit.Framework;
 
 namespace ProjectName.Test.UI.Tests
 {
-    internal class Warehouse
+    [TestFixture]
+    public class Warehouse
     {
-        //test
-        //test2
+        [Test]
+        public void testcaseA()
+        {
+            Console.WriteLine("hop");
+            Console.WriteLine("thuc");
+            Console.WriteLine("Vy");
+            Console.WriteLine("Min");
+        }
     }
 }
