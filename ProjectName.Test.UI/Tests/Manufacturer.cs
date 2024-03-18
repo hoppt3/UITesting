@@ -44,6 +44,8 @@ namespace TestUI.Tests
         {
             string manufacturerName = "Manufactuer name " + RandomHelper.GetRandomText(5);
 
+            //test 3
+
             new ManufacturersPage(driver)
                 .InputManufacturerInformationThenSave(manufacturerName);
         }
