@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj": {}
+    "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\Framework.Test.UI.csproj": {
+    "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\Framework.Test.UI.csproj",
+        "projectUniqueName": "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj",
         "projectName": "Framework.Test.UI",
-        "projectPath": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\Framework.Test.UI.csproj",
-        "packagesPath": "C:\\Users\\hophamthi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\obj\\",
+        "projectPath": "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj",
+        "packagesPath": "/Users/phamthihop/.nuget/packages/",
+        "outputPath": "/Users/phamthihop/UITesting/PageObjectFramework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hophamthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/phamthihop/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -81,36 +79,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj": {
+    "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj",
+        "projectUniqueName": "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj",
         "projectName": "ProjectName.Test.UI",
-        "projectPath": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\ProjectName.Test.UI\\ProjectName.Test.UI.csproj",
-        "packagesPath": "C:\\Users\\hophamthi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\ProjectName.Test.UI\\obj\\",
+        "projectPath": "/Users/phamthihop/UITesting/ProjectName.Test.UI/ProjectName.Test.UI.csproj",
+        "packagesPath": "/Users/phamthihop/.nuget/packages/",
+        "outputPath": "/Users/phamthihop/UITesting/ProjectName.Test.UI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hophamthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/phamthihop/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\Framework.Test.UI.csproj": {
-                "projectPath": "C:\\Users\\hophamthi\\Desktop\\HopPham\\Projects\\PageObjectFramework\\PageObjectFramework\\Framework.Test.UI.csproj"
+              "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj": {
+                "projectPath": "/Users/phamthihop/UITesting/PageObjectFramework/Framework.Test.UI.csproj"
               }
             }
           }
@@ -166,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }
